@@ -24,7 +24,7 @@ git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-fr
 ## Working with the application in your IDE
 ### Prerequisites
 #### back end :
-* Java 7 or newer. 
+* Java 7 or newer.  
 •	git command line tool (https://help.github.com/articles/set-up-git) 
 * Your preferred IDE Eclipse . 
 * Spring Tools Suite (STS) 
