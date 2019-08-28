@@ -14,14 +14,13 @@ git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-fr
 * You can then access the application here: http://localhost:4200/
 
 # Working with the application in your IDE
-* Prerequisites
-# The following items should be installed in your system: 
-# back end 
+# Prerequisites
+* back end :
 * Java 7 or newer. 
 •	git command line tool (https://help.github.com/articles/set-up-git) 
 * Your preferred IDE Eclipse . 
 * Spring Tools Suite (STS) 
-# front end
+* front end :
 * VS Code
 * webstorm 
 * atom 
@@ -30,8 +29,8 @@ git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-fr
 # Steps:
 * for the back end
 + run mysql server using the port 3306
-+ On the command line git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application.git 
-+Inside Eclipse or STS File -> Import -> Maven -> Existing Maven project Run the application main method by right clicking on it and choosing Run As -> spring Application.
++ On the command line git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-backend-part.git 
++ Inside Eclipse or STS File -> Import -> Maven -> Existing Maven project Run the application main method by right clicking on it and choosing Run As -> spring Application.
 
 * for the front end
 + Inside VS Code or webstorm or atom File -> open folder and choose de folder of the front end
