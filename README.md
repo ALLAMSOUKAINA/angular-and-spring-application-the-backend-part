@@ -6,6 +6,7 @@
 * the server backend listening port 9090 and the frontend use port 4200 all the servers ports and database configurations can be modified on the file application.propriety in the backend and by executing the command ng serve --port X for the frontend on the terminal IDE when you execute the frontend code
 ## Running the application locally
 * for the backend : 
+
 git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-backend-part.git
 
 cd angular-and-spring-application
@@ -14,6 +15,7 @@ cd angular-and-spring-application
 
 java -jar target/*.jar
 * for the front end : 
+
 git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-front-end.git
 
 
