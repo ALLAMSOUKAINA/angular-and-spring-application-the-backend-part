@@ -7,6 +7,12 @@
 ## Running the application locally
 * for the backend : 
 git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-backend-part.git
+
+cd angular-and-spring-application
+
+./mvnw package
+
+java -jar target/*.jar
 * for the front end : 
 git clone https://github.com/ALLAMSOUKAINA/angular-and-spring-application-the-front-end.git
 
